@@ -70,6 +70,10 @@ table {
   width: 25%;
 }
 
+.infoTr td {
+  background: #c4c4c4;
+}
+
 .schoolandlogo {
   display: flex;
 }
